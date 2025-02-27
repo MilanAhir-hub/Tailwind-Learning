@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+    --color-brand: #1E40AF;
+    /* Custom blue */
+    --color-accent: #EAB308;
+    /* Custom yellow */
+    --color-danger: #DC2626;
+    /* Custom red */
+    --color-facebook: #2dd4f1;
+}
